@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: b4441e6056b4d5f47a597fcbbf9ad9dd
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Brilho
+    100002: Brilho_Laranja
+    100004: Brilho_Laranja 1
+    100006: Brilho_Laranja002
+    100008: Brilho_Verde
+    100010: Brilho_Verde 1
+    100012: Brilho_Verde001
+    100014: Brilho_Vermelho
+    100016: Brilho_Vermelho 1
+    100018: Brilho_Vermelho002
+    100020: //RootNode
+    100022: Semaforo1A
+    100024: Semaforo1B
+    100026: Semaforo1Colider
+    100028: BrilhoPlane
+    100030: BrilhoPlane 1
+    100032: SemaforoA
+    100034: SemaforoB
+    100036: SemaforoColider
+    100038: SemaforoColider 1
+    400000: Brilho
+    400002: Brilho_Laranja
+    400004: Brilho_Laranja 1
+    400006: Brilho_Laranja002
+    400008: Brilho_Verde
+    400010: Brilho_Verde 1
+    400012: Brilho_Verde001
+    400014: Brilho_Vermelho
+    400016: Brilho_Vermelho 1
+    400018: Brilho_Vermelho002
+    400020: //RootNode
+    400022: Semaforo1A
+    400024: Semaforo1B
+    400026: Semaforo1Colider
+    400028: BrilhoPlane
+    400030: BrilhoPlane 1
+    400032: SemaforoA
+    400034: SemaforoB
+    400036: SemaforoColider
+    400038: SemaforoColider 1
+    2300000: Brilho_Laranja 1
+    2300002: Brilho_Laranja002
+    2300004: Brilho_Verde 1
+    2300006: Brilho_Verde001
+    2300008: Brilho_Vermelho 1
+    2300010: Brilho_Vermelho002
+    2300012: Semaforo1A
+    2300014: Semaforo1B
+    2300016: Semaforo1Colider
+    2300018: BrilhoPlane 1
+    2300020: SemaforoA
+    2300022: SemaforoB
+    2300024: SemaforoColider 1
+    3300000: Brilho_Laranja 1
+    3300002: Brilho_Laranja002
+    3300004: Brilho_Verde 1
+    3300006: Brilho_Verde001
+    3300008: Brilho_Vermelho 1
+    3300010: Brilho_Vermelho002
+    3300012: Semaforo1A
+    3300014: Semaforo1B
+    3300016: Semaforo1Colider
+    3300018: BrilhoPlane 1
+    3300020: SemaforoA
+    3300022: SemaforoB
+    3300024: SemaforoColider 1
+    4300000: Semaforo1A
+    4300002: Semaforo1B
+    4300004: Semaforo1Colider
+    4300006: Brilho_Laranja002
+    4300008: Brilho_Laranja
+    4300010: Brilho_Vermelho002
+    4300012: Brilho_Vermelho
+    4300014: Brilho_Verde
+    4300016: Brilho_Verde001
+    4300018: SemaforoA
+    4300020: SemaforoB
+    4300022: BrilhoPlane
+    4300024: SemaforoColider
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
